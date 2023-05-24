@@ -10,9 +10,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "author": "Titiksha Gupta",
   "license": "ISC",
+  "repository": "https://github.com/titiksha6393/DirManager",
+  "homepage": "https://github.com/titiksha6393/DirManager#readme",
   "dependencies": {
     "commander": "^10.0.1",
     "figlet": "^1.6.0"
